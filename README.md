@@ -6,3 +6,4 @@
   * https://paiza.jp/works/mondai/stdout_primer/stdout_primer__specific_split_step4
   * https://paiza.jp/works/mondai/stdout_primer/stdout_primer__specific_split_step5
   * https://paiza.jp/works/mondai/stdout_primer/stdout_primer__specific_split_step6
+  * https://paiza.jp/works/mondai/stdout_primer/stdout_primer__specific_split_boss
