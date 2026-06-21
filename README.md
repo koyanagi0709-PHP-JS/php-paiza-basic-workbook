@@ -16,3 +16,4 @@
   * https://paiza.jp/works/mondai/stdout_primer/stdout_primer__variable_array_step2
   * https://paiza.jp/works/mondai/stdout_primer/stdout_primer__variable_array_step3
   * https://paiza.jp/works/mondai/stdout_primer/stdout_primer__variable_array_step4
+  * https://paiza.jp/works/mondai/stdout_primer/stdout_primer__variable_array_boss
