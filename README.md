@@ -12,3 +12,7 @@
   * https://paiza.jp/works/mondai/stdout_primer/stdout_primer__2dim_array_step3
   * https://paiza.jp/works/mondai/stdout_primer/stdout_primer__2dim_array_boss
   * https://paiza.jp/works/mondai/stdout_primer/stdout_primer__string_output_boss
+  * https://paiza.jp/works/mondai/stdout_primer/stdout_primer__variable_array_step1
+  * https://paiza.jp/works/mondai/stdout_primer/stdout_primer__variable_array_step2
+  * https://paiza.jp/works/mondai/stdout_primer/stdout_primer__variable_array_step3
+  * https://paiza.jp/works/mondai/stdout_primer/stdout_primer__variable_array_step4
